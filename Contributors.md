@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
+- [Wonseok Choi.] (https://github.com/tthugy)
 - [Vishakha Tomar] (https://github.com/vish1306)
 - [Franklyn Chisom](https://github.com/ajifrank75)
 - [Kenny Gosai](https://github.com/kennygosai)
